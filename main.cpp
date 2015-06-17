@@ -14,9 +14,9 @@ int main()
    cout << upperLet << " has ASCII value: " << upperVal << endl;
    cout << lowerLet << " has ASCII value: " << lowerVal << endl << endl;
 
-   // next do the F/f values. place in both char and int and show:
-   upperLet = 'F';
-   lowerLet = 'f';
+   // next do the E/e values. place in both char and int and show:
+   upperLet = 'E';
+   lowerLet = 'e';
    upperVal = upperLet;
    lowerVal = lowerLet;
    cout << upperLet << " has ASCII value: " << upperVal << endl;
